@@ -1,6 +1,6 @@
-# Nube – Perfil de GitHub
+# Jesús Caravaca – Perfil de GitHub
 
-Hola, soy **Nube**, estudiante de Ingeniería Informática apasionado por la programación, los sistemas y el desarrollo de software. Este repositorio sirve como mi carta de presentación y espacio para mostrar proyectos, experimentos y contribuciones.  
+Hola, soy **Jesús Caravaca**, estudiante de Ingeniería Informática apasionado por la programación, los sistemas y el desarrollo de software. Este repositorio sirve como mi carta de presentación y espacio para mostrar proyectos, experimentos y contribuciones.  
 
 ---
 

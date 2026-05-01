@@ -23,5 +23,5 @@ Hola, soy **Nube**, estudiante de Ingeniería Informática apasionado por la pro
 
 ## Cómo contactarme
 
-- **Email:** jesusjaveacg@gmail.com  
+- **Email:** jesus.caravaca@protonmail.com
 - **GitHub:** [github.com/MagicNube](https://github.com/MagicNube)  

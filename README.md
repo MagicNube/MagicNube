@@ -1,41 +1,41 @@
 # Jesús Caravaca – Software Engineer 
 
-Hola, soy **Jesús Caravaca**, estudiante de Ingeniería Informática en la **UPV** apasionado por la arquitectura de software, la inteligencia artificial y el desarrollo de videojuegos. Este espacio muestra mi evolución técnica y mi enfoque en construir soluciones escalables y eficientes.
+Hello, I'm **Jesús Caravaca**, a Software Engineering graduate from **UPV** passionate about software architecture, artificial intelligence, and game development. This space showcases my technical evolution and my focus on building scalable and efficient solutions.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 ### 📽️ Cinema Simulator
-**Premio:** 🏆 2º Premio en la Feria de Proyectos UPV.
-Simulador interactivo 3D desarrollado con un enfoque en mecánicas físicas realistas y experiencia de usuario inmersiva.
-- [Ver Repositorio](https://github.com/MagicNube/CinemaSimulator)
+**Award:** 🏆 2nd Prize at the UPV Project Fair.
+An interactive 3D simulator developed with a focus on realistic physics mechanics and an immersive user experience.
+- [View Repository](https://github.com/MagicNube/CinemaSimulator)
 
-### 📊 SeeQL (Trabajo de Fin de Grado)
-Plataforma educativa para la visualización interactiva de transformaciones de datos y aprendizaje de SQL. Desarrollada con React y TypeScript para ofrecer una experiencia reactiva y clara.
-- [Repositorio del Proyecto](https://github.com/MagicNube/SeeQL)
-- [🌐 Ver Aplicación Desplegada](https://see-ql.vercel.app/) 
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Lenguajes:** Java, Python, C, C#, TypeScript y SQL.
-- **IA e I+D:** Experiencia profesional de 1 año en entrenamiento de modelos TTS y gestión de data pipelines.
-- **Herramientas:** Git, Docker, Linux, Unity, React, Next.js.
+### 📊 SeeQL (Final Degree Project)
+Educational platform for the interactive visualization of data transformations and SQL learning. Developed with React and TypeScript to offer a clear and reactive experience.
+- [Project Repository](https://github.com/MagicNube/SeeQL)
+- [🌐 View Deployed App](https://see-ql.vercel.app/) 
 
 ---
 
-## 🎓 Sobre mí
+## 🛠️ Technical Skills
 
-- **Formación:** Grado en Ingeniería Informática - Universitat Politècnica de València (Nota Media: 7,9/10).
-- **Enfoque:** Me apasiona resolver problemas complejos mediante código limpio y arquitectura robusta.
-- **Ubicación:** Valencia, España.
+- **Languages:** Java, Python, C, C#, TypeScript, and SQL.
+- **AI & R&D:** 1 year of professional experience in TTS model training and data pipeline management.
+- **Tools:** Git, Docker, Linux, Unity, React, Next.js.
 
 ---
 
-## 📬 Contacto
+## 🎓 About Me
+
+- **Education:** Bachelor's Degree in Software Engineering - Universitat Politècnica de València (Average Grade: 7.9/10).
+- **Focus:** I am passionate about solving complex problems through clean code and robust architecture.
+- **Location:** Valencia, Spain.
+
+---
+
+## 📬 Contact
 
 - **Email:** jesus.caravaca@protonmail.com
-- **LinkedIn:** [linkedin.com/in/jesus-caravaca](www.linkedin.com/in/jesús-caravaca-gonzález-6705b6407)
+- **LinkedIn:** [linkedin.com/in/jesus-caravaca](https://www.linkedin.com/in/jesús-caravaca-gonzález-6705b6407)
 - **GitHub:** [github.com/MagicNube](https://github.com/MagicNube)

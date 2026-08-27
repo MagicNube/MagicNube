@@ -1,41 +1,129 @@
-# Jesús Caravaca – Software Engineer 
+# Hi, I'm Jesús Caravaca 👋
 
-Hello, I'm **Jesús Caravaca**, a Software Engineering graduate from **UPV** passionate about software architecture, artificial intelligence, and game development. This space showcases my technical evolution and my focus on building scalable and efficient solutions.
+**Software Engineer** from the **Universitat Politècnica de València (UPV)** focused on building maintainable software, modern web applications and local-first desktop experiences.
 
----
+I enjoy designing software architectures, solving complex engineering problems and turning ideas into polished products.
 
-## 🚀 Featured Projects
-
-### 📽️ Cinema Simulator
-**Award:** 🏆 2nd Prize at the UPV Project Fair.
-An interactive 3D simulator developed with a focus on realistic physics mechanics and an immersive user experience.
-- [View Repository](https://github.com/MagicNube/CinemaSimulator)
-
-### 📊 SeeQL (Final Degree Project)
-Educational platform for the interactive visualization of data transformations and SQL learning. Developed with React and TypeScript to offer a clear and reactive experience.
-- [Project Repository](https://github.com/MagicNube/SeeQL)
-- [🌐 View Deployed App](https://see-ql.vercel.app/) 
+📍 Valencia, Spain  
+💼 Looking for my first Software Engineer position
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 Featured Projects
 
-- **Languages:** Java, Python, C, C#, TypeScript, and SQL.
-- **AI & R&D:** 1 year of professional experience in TTS model training and data pipeline management.
-- **Tools:** Git, Docker, Linux, Unity, React, Next.js.
+## 🖥️ NubeOS
+
+A **local-first desktop application** built with **Tauri, Rust, React and SQLite** to centralize personal information in a single private workspace.
+
+Instead of relying on cloud services, NubeOS follows a modular architecture where **Rust owns the business domain** while **React focuses exclusively on presentation**.
+
+### Highlights
+
+- 🦀 Rust domain layer with clear separation of responsibilities
+- ⚛️ React + TypeScript frontend
+- 💾 SQLite as the single source of truth
+- 🪟 Native desktop application using Tauri
+- 📄 Integrated PDF management
+- 📚 Personal library management
+- 🎮 Games, books, anime, movies and series tracking
+- 🥗 Meal planner, shopping lists and nutrition
+- ✅ Habit tracking
+- 🧩 Feature-first architecture
+- 🔒 Private by design
+
+➡️ Repository: https://github.com/MagicNube/NubeOS
 
 ---
 
-## 🎓 About Me
+## 🌐 SeeQL
 
-- **Education:** Bachelor's Degree in Software Engineering - Universitat Politècnica de València (Average Grade: 7.9/10).
-- **Focus:** I am passionate about solving complex problems through clean code and robust architecture.
-- **Location:** Valencia, Spain.
+Interactive SQL learning platform developed as my Bachelor's Thesis.
+
+SeeQL provides a **client-side SQL execution engine** powered by **WebAssembly**, allowing users to experiment with SQL safely while visualizing relational transformations in real time.
+
+Awarded **10/10** with an **Honors recommendation**.
+
+### Highlights
+
+- React + TypeScript
+- WebAssembly (SQL.js)
+- Interactive SQL visualization
+- AST-based processing
+- Supabase authentication
+- CI/CD deployment
+- Educational sandbox
+- Progressive learning system
+
+➡️ Repository: https://github.com/MagicNube/SeeQL
 
 ---
 
-## 📬 Contact
+## 🎮 Cinema Simulator
 
-- **Email:** jesus.caravaca@protonmail.com
-- **LinkedIn:** [linkedin.com/in/jesus-caravaca](https://www.linkedin.com/in/jesús-caravaca-gonzález-6705b6407)
-- **GitHub:** [github.com/MagicNube](https://github.com/MagicNube)
+Award-winning Unity project focused on realistic physics simulation and interactive gameplay.
+
+🥈 **2nd Prize at the UPV University Project Fair**
+
+➡️ Repository: https://github.com/MagicNube/CinemaSimulator
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+- Java
+- TypeScript
+- Rust
+- Python
+- SQL
+- C#
+
+### Frontend
+
+- React
+- Vite
+
+### Backend
+
+- Spring Boot
+- SQLite
+- Supabase
+
+### Desktop
+
+- Tauri
+
+### Tools
+
+- Git
+- Docker
+- Linux
+
+---
+
+# 💡 Engineering Principles
+
+- Design architecture before implementation.
+- Keep business logic independent from the UI.
+- Prefer modular and maintainable solutions.
+- Local-first whenever possible.
+- Build software that solves real problems.
+
+---
+
+# 📚 Currently
+
+- Improving **NubeOS**
+- Looking for my first **Software Engineer** role
+- Learning more about the Spring ecosystem and backend architecture
+
+---
+
+# 📫 Contact
+
+📧 Email: jesus.caravaca@protonmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/jesús-caravaca-gonzález-6705b6407
+
+🌍 Portfolio: *(coming soon)*

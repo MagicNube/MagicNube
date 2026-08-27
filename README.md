@@ -1,60 +1,70 @@
 # Hi, I'm Jesús Caravaca 👋
 
-**Software Engineer** from the **Universitat Politècnica de València (UPV)** focused on building maintainable software, modern web applications and local-first desktop experiences.
+Software Engineer passionate about building **well-architected software**, **local-first desktop applications** and **developer-focused tools**.
 
-I enjoy designing software architectures, solving complex engineering problems and turning ideas into polished products.
+I enjoy designing systems that are modular, maintainable and built around real-world problems.
 
 📍 Valencia, Spain  
 💼 Looking for my first Software Engineer position
 
 ---
 
-# 🚀 Featured Projects
+<p align="center">
 
-## 🖥️ NubeOS
+<a href="https://github.com/MagicNube/NubeOS">
+<img src="https://img.shields.io/badge/🖥_NubeOS-7C5CFF?style=for-the-badge">
+</a>
 
-A **local-first desktop application** built with **Tauri, Rust, React and SQLite** to centralize personal information in a single private workspace.
+<a href="https://see-ql.vercel.app">
+<img src="https://img.shields.io/badge/🌐_SeeQL_Live_Demo-2563EB?style=for-the-badge">
+</a>
 
-Instead of relying on cloud services, NubeOS follows a modular architecture where **Rust owns the business domain** while **React focuses exclusively on presentation**.
+<a href="https://github.com/MagicNube/CinemaSimulator">
+<img src="https://img.shields.io/badge/🎮_Cinema_Simulator-10B981?style=for-the-badge">
+</a>
 
-### Highlights
+</p>
 
-- 🦀 Rust domain layer with clear separation of responsibilities
-- ⚛️ React + TypeScript frontend
-- 💾 SQLite as the single source of truth
-- 🪟 Native desktop application using Tauri
-- 📄 Integrated PDF management
-- 📚 Personal library management
-- 🎮 Games, books, anime, movies and series tracking
-- 🥗 Meal planner, shopping lists and nutrition
-- ✅ Habit tracking
-- 🧩 Feature-first architecture
-- 🔒 Private by design
+---
 
-➡️ Repository: https://github.com/MagicNube/NubeOS
+# ⭐ Featured Work
+
+## 🖥 NubeOS
+
+A **local-first desktop application** built with **Rust, Tauri, React and SQLite** to centralize personal information in a single private workspace.
+
+Designed around my own workflow instead of adapting to existing productivity software.
+
+**Highlights**
+
+- 🦀 Rust domain layer
+- ⚛️ React + TypeScript UI
+- 💾 SQLite persistence
+- 🪟 Native desktop application
+- 🧩 Modular feature-first architecture
+- 🔒 Local-first & privacy-first
+
+➡️ **Repository**
+
+https://github.com/MagicNube/NubeOS
 
 ---
 
 ## 🌐 SeeQL
 
-Interactive SQL learning platform developed as my Bachelor's Thesis.
+Interactive SQL learning platform developed as my **Bachelor's Thesis**.
 
-SeeQL provides a **client-side SQL execution engine** powered by **WebAssembly**, allowing users to experiment with SQL safely while visualizing relational transformations in real time.
+Features a **client-side SQL engine powered by WebAssembly**, allowing users to experiment with SQL while visualizing relational transformations in real time.
 
-Awarded **10/10** with an **Honors recommendation**.
+⭐ **Final Grade: 10/10 · Honors Recommendation**
 
-### Highlights
+🌐 **Live Demo**
 
-- React + TypeScript
-- WebAssembly (SQL.js)
-- Interactive SQL visualization
-- AST-based processing
-- Supabase authentication
-- CI/CD deployment
-- Educational sandbox
-- Progressive learning system
+https://see-ql.vercel.app
 
-➡️ Repository: https://github.com/MagicNube/SeeQL
+➡️ **Repository**
+
+https://github.com/MagicNube/SeeQL
 
 ---
 
@@ -62,9 +72,11 @@ Awarded **10/10** with an **Honors recommendation**.
 
 Award-winning Unity project focused on realistic physics simulation and interactive gameplay.
 
-🥈 **2nd Prize at the UPV University Project Fair**
+🥈 **2nd Prize at the UPV Project Fair**
 
-➡️ Repository: https://github.com/MagicNube/CinemaSimulator
+➡️ **Repository**
+
+https://github.com/MagicNube/CinemaSimulator
 
 ---
 
@@ -72,33 +84,27 @@ Award-winning Unity project focused on realistic physics simulation and interact
 
 ### Languages
 
-- Java
-- TypeScript
-- Rust
-- Python
-- SQL
-- C#
+Java · TypeScript · Rust · Python · SQL · C#
 
 ### Frontend
 
-- React
-- Vite
+React · Vite
 
 ### Backend
 
-- Spring Boot
-- SQLite
-- Supabase
+Spring Boot · SQLite · Supabase
 
 ### Desktop
 
-- Tauri
+Tauri
+
+### AI
+
+Prompt Engineering · Large Language Models
 
 ### Tools
 
-- Git
-- Docker
-- Linux
+Git · VS Code · Linux
 
 ---
 
@@ -112,18 +118,24 @@ Award-winning Unity project focused on realistic physics simulation and interact
 
 ---
 
-# 📚 Currently
+# 🌱 Currently
 
-- Improving **NubeOS**
-- Looking for my first **Software Engineer** role
-- Learning more about the Spring ecosystem and backend architecture
+- 🖥 Building **NubeOS**
+- 💼 Looking for my first **Software Engineer** role
+- 📚 Learning more about the Spring ecosystem and backend architecture
 
 ---
 
 # 📫 Contact
 
-📧 Email: jesus.caravaca@protonmail.com
+📧 **Email**
 
-💼 LinkedIn: https://www.linkedin.com/in/jesús-caravaca-gonzález-6705b6407
+jesus.caravaca@protonmail.com
 
-🌍 Portfolio: *(coming soon)*
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/jesús-caravaca-gonzález-6705b6407
+
+🌍 **Portfolio**
+
+Coming soon...
